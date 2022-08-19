@@ -1,1 +1,1 @@
-# Ton's iTerm2 Configurator
+# Ton's iTerm2 Configuration
